@@ -1,0 +1,10 @@
+{
+    "files.associations": {
+        "libtcod.h": "c",
+        "random": "c",
+        "array": "c",
+        "deque": "c",
+        "vector": "c",
+        "string_view": "c"
+    }
+}
